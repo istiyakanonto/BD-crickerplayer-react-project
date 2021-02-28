@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "first_name": "Sakib",
+      "last_name": "All Hasan",
+      "email": "sakib@ftc.gov",
+      "age": 28,
+      "price_tag": 70000.69,
+      "role": "All-Rounder",
+      "img": "https://image.crictracker.com/wp-content/uploads/2019/10/Shakib-Al-Hasan-1-1.jpg"
+    },
+    {
+      "id": 2,
+      "first_name": "Tamim",
+      "last_name": "Iqbal",
+      "email": "tamim@free.fr",
+      "age": 29,
+      "price_tag": 10000.82,
+      "role": "Batsman",
+      "img": "http://t2.gstatic.com/images?q=tbn:ANd9GcQxNsVq2juC7g3XiQ4avaKKF3IFGd5ziD1gpARMRFU8dFfLefPU9O3NajEWdsWn"
+    },
+    {
+      "id": 3,
+      "first_name": "Musfiqur",
+      "last_name": "Rahim",
+      "email": "rahim@twitpic.com",
+      "age": 30,
+      "price_tag": 53899.97,
+      "role": "WK-Batsman",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mushfiqur_Rahim_2018_%28cropped%29.jpg/800px-Mushfiqur_Rahim_2018_%28cropped%29.jpg"
+    },
+    {
+      "id": 4,
+      "first_name": "Sabbir",
+      "last_name": "Rahman",
+      "email": "sabbir@nbcnews.com",
+      "age": 25,
+      "price_tag": 14589.67,
+      "role": "Batsman",
+      "img": "https://cdn.risingbd.com/media/imgAll/2017December/bg/Sabbir_Rahman20180101182327.jpg"
+    },
+    {
+      "id": 5,
+      "first_name": "Mustafizur",
+      "last_name": "Rahman",
+      "email": "mustafiz@geocities.com",
+      "age": 24,
+      "price_tag": 28084.99,
+      "role": "Boller",
+      "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170925/mustafizur-rahman.jpg"
+    },
+    {
+      "id": 6,
+      "first_name": "Taskin",
+      "last_name": "Ahmed",
+      "email": "taskin5@ft.com",
+      "age": 23,
+      "price_tag": 14534.11,
+      "role": "Boller",
+      "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893434-e1520608434902.jpg"
+    },
+    {
+      "id": 7,
+      "first_name": "Mehdi hasan",
+      "last_name": "Miraz",
+      "email": "mehdi@deliciousdays.com",
+      "age": 22,
+      "price_tag": 312347.55,
+      "role": "Allrounder",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNTEEPtU3IeFq0b2RizCWniYQoYU07wUXRw&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "first_name": "Liton Das",
+      "last_name": "Das",
+      "email": "liton@symantec.com",
+      "age": 27,
+      "price_tag": 323546.43,
+      "role": "Wk-Batsman",
+      "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170914/liton-das.jpg"
+    },
+    {
+      "id": 9,
+      "first_name": "Marshafi",
+      "last_name": "Murtoza",
+      "email": "marshafi8@ow.ly",
+      "age": 34,
+      "price_tag": 47237.08,
+      "role": "Boller",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGGaqN9M-B8vasf7x1q4KgrPw-LnFZ98gzA&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "first_name": "Mithun",
+      "last_name": "Ali",
+      "email": "mithun9@merriam-webster.com",
+      "age": 30,
+      "price_tag": 36738.17,
+      "role": "Batsman",
+      "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-514184158-e1520258664493.jpg"
+    }
+  ]
