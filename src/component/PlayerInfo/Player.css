@@ -1,0 +1,26 @@
+.player
+{
+    display: flex;
+    border-bottom: 1px solid red;
+    margin-bottom: 20px;
+}
+.player img{
+    height: 300px;
+    width: 300px;
+    margin-left: 80px;
+    margin-right: 180px;
+  
+   
+    
+}
+#add-button
+{
+    width: 150px;
+    height: 30px;
+   padding-bottom: 30px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.player-cart
+{
+    display: flex;
+    margin: 10px;
+    }
+    .all-player
+    {
+        margin-left: 500px;
+        border-left: 1px solid gray;
+    }
