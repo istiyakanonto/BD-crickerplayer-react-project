@@ -19,10 +19,9 @@ const Player = (props) => {
             <div>
             <h1 style={{color:'tomato'}}>{first_name}</h1>
             <h3 style={{color:'brown'}}>{last_name}</h3>
-
-            <h4 style={{color:'#5335c0'}}>Playing Role: {role}</h4>
+<h4 style={{color:'#5335c0'}}>Playing Role: {role}</h4>
             <p style={{color:'#3071A9'}}> Player Age: {age}</p>
-            <h5 style={{color:'#F56F05'}}> Player Price Tag {price_tag}$</h5>
+            <h5 style={{color:'#1A1125'}}> Player Price Tag {price_tag}$</h5>
            
             
             <p style={{color:'#2931B3'}}><small> Player Email: {email}</small></p>

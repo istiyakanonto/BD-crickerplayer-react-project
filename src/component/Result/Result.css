@@ -5,6 +5,7 @@
     }
     .all-player
     {
-        margin-left: 500px;
+        margin-left: 400px;
         border-left: 1px solid gray;
+        padding-left: 20px;
     }
